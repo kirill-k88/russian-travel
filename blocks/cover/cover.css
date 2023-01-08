@@ -1,0 +1,7 @@
+.cover {
+  color: #ffffff;
+  width: calc(100% - (48px * 2));
+  height: 740px;
+  margin: 0 auto;
+  margin-top: 92px;
+}

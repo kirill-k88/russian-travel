@@ -48,7 +48,7 @@
 /* Стили для миксов*/
 @import url(../blocks/common-link/common-link.css);
 
-section,
+/* section,
 div,
 p,
 blockquote,
@@ -61,4 +61,4 @@ h2,
 h3,
 h1 {
   outline: solid red;
-}
+} */

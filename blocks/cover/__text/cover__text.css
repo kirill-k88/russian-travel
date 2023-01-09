@@ -16,3 +16,10 @@
     height: 120px;
   }
 }
+
+@media screen and (max-width: 424px) {
+  .cover__text {
+    width: 288px;
+    height: 135px;
+  }
+}

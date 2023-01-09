@@ -27,13 +27,11 @@
 }
 
 .page {
-  background-color: #2a2c2f;
+  background-color: #e5e5e5;
   color: #ffffff;
   margin: 0 auto;
   font-family: "Inter", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
-  padding-top: 28px;
-  padding-bottom: 24px;
 }

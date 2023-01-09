@@ -14,3 +14,9 @@
     max-width: 425px;
   }
 }
+
+@media screen and (max-width: 424px) {
+  .lead__title {
+    max-width: 300px;
+  }
+}

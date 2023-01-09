@@ -24,3 +24,11 @@
     margin-top: 73px;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .place {
+    grid-template-columns: 200px minmax(157px, 1fr);
+    column-gap: 20px;
+    margin-top: 50px;
+  }
+}

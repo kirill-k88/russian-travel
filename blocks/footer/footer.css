@@ -1,6 +1,7 @@
 .footer {
   display: flex;
   justify-content: space-between;
+  align-items: flex-end;
   width: calc(100% - (48px * 2));
   margin: 92px auto 0;
 }
@@ -9,5 +10,11 @@
   .footer {
     width: calc(100% - (24px * 2));
     margin: 88px auto 0;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .footer {
+    margin: 64px auto 0;
   }
 }

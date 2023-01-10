@@ -21,7 +21,7 @@
   .place {
     grid-template-columns: 340px minmax(352px, 1fr);
     column-gap: 28px;
-    margin-top: 73px;
+    margin-top: 72px;
   }
 }
 
@@ -30,6 +30,6 @@
     grid-template-columns: 100%;
     gap: 32px;
     justify-content: center;
-    margin-top: 50px;
+    margin-top: 49px;
   }
 }

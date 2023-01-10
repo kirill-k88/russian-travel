@@ -1,6 +1,7 @@
 /* Общие стили */
 @import url(../vendor/normalize.css);
 /*Стиль страницы*/
+@import url(../blocks/font/font.css);
 @import url(../blocks/root/root.css);
 @import url(../blocks/page/page.css);
 /* Стили контента */

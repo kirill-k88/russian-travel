@@ -10,32 +10,30 @@
   background-size: cover;
   background-position: center;
   width: 100%;
-  height: 740px;
-  /*   height: 0;
-  padding-bottom: 62.5%; */
+  min-height: 740px;
 }
 
 @media screen and (max-width: 1279px) {
   .cover__background {
-    height: 640px;
+    min-height: 640px;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .cover__background {
-    height: 480px;
+    min-height: 480px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .cover__background {
-    height: 265px;
+    min-height: 265px;
   }
 }
 
 @media screen and (max-width: 424px) {
   .cover__background {
-    height: 200px;
+    min-height: 200px;
     gap: 16px;
   }
 }
